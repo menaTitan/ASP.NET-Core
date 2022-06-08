@@ -1,0 +1,52 @@
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\appsettings.Development.json
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\appsettings.json
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.staticwebassets.runtime.json
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.exe
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.deps.json
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.runtimeconfig.json
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.dll
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.pdb
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.csproj.AssemblyReference.cache
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.AssemblyInfoInputs.cache
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.AssemblyInfo.cs
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.csproj.CoreCompileInputs.cache
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.RazorAssemblyInfo.cache
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.RazorAssemblyInfo.cs
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\scopedcss\bundle\FirstMVCApp.styles.css
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\scopedcss\projectbundle\FirstMVCApp.bundle.scp.css
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.dll
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\refint\FirstMVCApp.dll
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.pdb
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.genruntimeconfig.cache
+C:\demo\DotNetCoreAuth0API\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\ref\FirstMVCApp.dll
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\appsettings.Development.json
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\appsettings.json
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.staticwebassets.runtime.json
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.exe
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.deps.json
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.runtimeconfig.json
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.dll
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\bin\Debug\net6.0\FirstMVCApp.pdb
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.csproj.AssemblyReference.cache
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.AssemblyInfoInputs.cache
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.AssemblyInfo.cs
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.csproj.CoreCompileInputs.cache
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.RazorAssemblyInfo.cache
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.RazorAssemblyInfo.cs
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\scopedcss\bundle\FirstMVCApp.styles.css
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\scopedcss\projectbundle\FirstMVCApp.bundle.scp.css
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.dll
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\refint\FirstMVCApp.dll
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.pdb
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\FirstMVCApp.genruntimeconfig.cache
+C:\demo\ASP.NET Core 6.0\FirstMVCApp\FirstMVCApp\obj\Debug\net6.0\ref\FirstMVCApp.dll

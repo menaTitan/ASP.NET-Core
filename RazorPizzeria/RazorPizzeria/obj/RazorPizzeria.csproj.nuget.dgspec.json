@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\demo\\ASP.NET Core 6.0\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj": {}
+  },
+  "projects": {
+    "C:\\demo\\ASP.NET Core 6.0\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\demo\\ASP.NET Core 6.0\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
+        "projectName": "RazorPizzeria",
+        "projectPath": "C:\\demo\\ASP.NET Core 6.0\\RazorPizzeria\\RazorPizzeria\\RazorPizzeria.csproj",
+        "packagesPath": "C:\\Users\\Menas\\.nuget\\packages\\",
+        "outputPath": "C:\\demo\\ASP.NET Core 6.0\\RazorPizzeria\\RazorPizzeria\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Menas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Telerik\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/LocalGovernmentCorporation/_packaging/LGCNuGet%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
