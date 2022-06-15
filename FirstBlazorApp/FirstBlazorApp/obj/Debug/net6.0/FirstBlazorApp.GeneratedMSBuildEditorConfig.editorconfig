@@ -61,3 +61,7 @@ build_metadata.AdditionalFiles.CssScope = b-6v4rzgve31
 [C:/demo/ASP.NET Core 6.0/FirstBlazorApp/FirstBlazorApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-z40z7u3kjb
+
+[C:/demo/ASP.NET Core 6.0/FirstBlazorApp/FirstBlazorApp/Shared/ShoppingListLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNob3BwaW5nTGlzdExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6319us39bo
