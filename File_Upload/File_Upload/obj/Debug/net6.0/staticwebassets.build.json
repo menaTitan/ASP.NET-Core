@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ofkcZ56YERRmduGOlsRw6L7GvtYPXi9WSDjAiKJL3Ts=",
+  "Hash": "wRTlFxr3Bo/kOwjcT7YcrfbZlX5m+KpJTKr3AgIJIi4=",
   "Source": "File_Upload",
   "BasePath": "_content/File_Upload",
   "Mode": "Default",
@@ -289,6 +289,23 @@
       "OriginalItemSpec": "wwwroot\\images\\pdf_logo.png"
     },
     {
+      "Identity": "C:\\demo\\ASP.NET Core 6.0\\File_Upload\\File_Upload\\wwwroot\\js\\CustomScripts.js",
+      "SourceId": "File_Upload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\demo\\ASP.NET Core 6.0\\File_Upload\\File_Upload\\wwwroot\\",
+      "BasePath": "_content/File_Upload",
+      "RelativePath": "js/CustomScripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\CustomScripts.js"
+    },
+    {
       "Identity": "C:\\demo\\ASP.NET Core 6.0\\File_Upload\\File_Upload\\wwwroot\\uploads\\angular-01-login.zip",
       "SourceId": "File_Upload",
       "SourceType": "Discovered",
@@ -406,6 +423,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\JetBrains.ReSharper.web (1).exe"
+    },
+    {
+      "Identity": "C:\\demo\\ASP.NET Core 6.0\\File_Upload\\File_Upload\\wwwroot\\uploads\\JetBrains.ReSharper.web.exe",
+      "SourceId": "File_Upload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\demo\\ASP.NET Core 6.0\\File_Upload\\File_Upload\\wwwroot\\",
+      "BasePath": "_content/File_Upload",
+      "RelativePath": "uploads/JetBrains.ReSharper.web.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\JetBrains.ReSharper.web.exe"
     },
     {
       "Identity": "C:\\demo\\ASP.NET Core 6.0\\File_Upload\\File_Upload\\wwwroot\\uploads\\OIP.png",
